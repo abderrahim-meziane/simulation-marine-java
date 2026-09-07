@@ -161,6 +161,5 @@ Total dechets ramasses   : 3
 
 ## 👤 Auteur
 
-**Abderrahim MEZIANE**  
-L3 Informatique — Sorbonne Université  
+**Abderrahim MEZIANE**    
 [LinkedIn](https://linkedin.com/in/abderrahim-meziane) | [Portfolio](https://abderrahim-meziane.github.io)
