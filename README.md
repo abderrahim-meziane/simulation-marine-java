@@ -162,4 +162,3 @@ Total dechets ramasses   : 3
 ## 👤 Auteur
 
 **Abderrahim MEZIANE**    
-[LinkedIn](https://linkedin.com/in/abderrahim-meziane2007) | [Portfolio](https://abderrahim-meziane.github.io)
